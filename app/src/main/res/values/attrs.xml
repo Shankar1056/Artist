@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <declare-styleable name="RippleView">
+        <attr name="rv_alpha" format="integer" />
+        <attr name="rv_framerate" format="integer"/>
+        <attr name="rv_rippleDuration" format="integer"/>
+        <attr name="rv_zoomDuration" format="integer" />
+        <attr name="rv_color" format="color" />
+        <attr name="rv_centered" format="boolean" />
+        <attr name="rv_type" format="enum">
+            <enum name="simpleRipple" value="0"/>
+            <enum name="doubleRipple" value="1"/>
+            <enum name="rectangle" value="2" />
+        </attr>
+        <attr name="rv_ripplePadding" format="dimension" />
+        <attr name="rv_zoom" format="boolean" />
+        <attr name="rv_zoomScale" format="float" />
+
+    </declare-styleable>
+
+
+    <!--diagonal view-->
+    <attr name="src" format="reference" />
+    <attr name="angle" format="integer" />
+    <attr name="scaleType">
+        <enum name="centerCrop" value="0" />
+        <enum name="fitXY" value="1" />
+    </attr>
+    <attr name="gravity">
+        <enum name="left" value="0" />
+        <enum name="right" value="1" />
+        <enum name="top" value="2" />
+        <enum name="bottom" value="3" />
+    </attr>
+
+    <attr name="diagonalDirection">
+        <enum name="left_to_right" value="0" />
+        <enum name="right_to_left" value="1" />
+        <enum name="top_to_bottom" value="2" />
+        <enum name="bottom_to_top" value="3" />
+    </attr>
+
+    <attr name="tint" format="color" />
+    <attr name="solidColor" format="color" />
+    <attr name="fillColor" format="color" />
+
+    <declare-styleable name="DiagonalView">
+        <attr name="angle" />
+        <attr name="gravity" />
+        <attr name="tint" />
+        <attr name="solidColor" />
+        <attr name="fillColor" />
+        <attr name="diagonalDirection" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4e555b</color>
+    <color name="colorPrimaryDark">#3e4449</color>
+    <color name="colorAccent">#877fef</color>
+    <color name="color1">#877fef</color>
+    <color name="trcolor1">#f2877fef</color>
+    <color name="trans">#00877fef</color>
+    <color name="trans_pr">#26877fef</color>
+    <color name="color2">#46c8f5</color>
+    <color name="trcolor2">#f246c8f5</color>
+    <color name="textPrimary">#2f2f2f</color>
+    <color name="textSecondary">#696969</color>
+    <color name="white">#ffffff</color>
+    <color name="rippleColor">#bababa</color>
+    <color name="red">#fc5353</color>
+    <color name="list_item_bg">#efefef</color>
+</resources>

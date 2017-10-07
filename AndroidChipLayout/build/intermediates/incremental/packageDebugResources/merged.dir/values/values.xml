@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="chipLayout"><attr name="android:gravity"/></declare-styleable>
+    <declare-styleable name="chipLayout_Layout"><attr name="android:layout_gravity"/></declare-styleable>
+    <declare-styleable name="chip_layout"><attr format="dimension" name="textSize_"/><attr format="dimension" name="chipPadding_"/><attr format="dimension" name="chipPaddingLeft_"/><attr format="dimension" name="chipPaddingRight_"/><attr format="dimension" name="chipPaddingTop_"/><attr format="dimension" name="chipPaddingBottom_"/><attr format="dimension" name="chipTextPadding_"/><attr format="dimension" name="chipTextPaddingLeft_"/><attr format="dimension" name="chipTextPaddingRight_"/><attr format="dimension" name="chipTextPaddingTop_"/><attr format="dimension" name="chipTextPaddingBottom_"/><attr format="color" name="textColor_"/><attr format="color" name="chipColor_"/><attr format="boolean" name="showText_"/><attr format="string" name="hint_"/><attr format="boolean" name="showDeleteButton_"/><attr format="reference" name="deleteIcon_"/><attr format="reference" name="chipDrawable_"/><attr format="reference" name="chipLayoutDrawable_"/><attr format="enum" name="labelPosition_">
+            <enum name="left" value="0"/>
+            <enum name="right" value="1"/>
+        </attr></declare-styleable>
+    <string name="app_name">AndroidChipLayout</string>
+</resources>

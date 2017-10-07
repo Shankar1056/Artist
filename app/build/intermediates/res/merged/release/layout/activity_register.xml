@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/white"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    tools:context="bigappcompany.com.artist.RegisterActivity">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/til_name"
+        android:hint="@string/name"
+        >
+
+        <bigappcompany.com.artist.widgets.MyCustomEditText
+
+            android:textSize="@dimen/text_normal"
+            android:id="@+id/txt_name"
+            android:inputType="textPersonName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:layout_marginTop="10dp"
+            android:layout_below="@+id/til_name"
+            android:id="@+id/til_email"
+            android:hint="@string/email"
+        >
+        <bigappcompany.com.artist.widgets.MyCustomEditText
+
+            android:inputType="textEmailAddress"
+            android:id="@+id/txt_email"
+            android:textSize="@dimen/text_normal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:layout_marginTop="10dp"
+            android:layout_below="@+id/til_email"
+            android:id="@+id/til_mobile"
+        android:hint="@string/mobile"
+        >
+        <bigappcompany.com.artist.widgets.MyCustomEditText
+
+            android:id="@+id/txt_mobile"
+            android:inputType="number"
+            android:textSize="@dimen/text_normal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </android.support.design.widget.TextInputLayout>
+        <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:layout_marginTop="10dp"
+            android:layout_below="@+id/til_mobile"
+            android:hint="@string/catg"
+            android:id="@+id/til_catg"
+
+        >
+
+        <AutoCompleteTextView
+
+            android:id="@+id/txt_catg"
+
+            android:textSize="@dimen/text_normal"
+            android:inputType="textAutoComplete"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        </android.support.design.widget.TextInputLayout>
+
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dp"
+
+            android:paddingBottom="10dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_below="@+id/til_catg"
+            android:id="@+id/til_sub"
+            android:hint="@string/subcatg">
+            <AutoCompleteTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/txt_sub"
+                android:textSize="@dimen/text_normal"
+
+                />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dp"
+
+            android:paddingBottom="10dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_below="@+id/til_sub"
+            android:id="@+id/til_city"
+            android:hint="@string/cityToPerform">
+            <AutoCompleteTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/txt_city"
+                android:textSize="@dimen/text_normal"
+                />
+        </android.support.design.widget.TextInputLayout>
+            <bigappcompany.com.artist.widgets.MyCustomTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/textSecondary"
+                android:text="About Me"
+
+                android:layout_below="@+id/til_city"
+                android:textSize="@dimen/text_normal"
+                android:layout_marginLeft="20dp"
+                android:id="@+id/lbl_abt"
+                android:layout_marginTop="10dp"
+                android:layout_marginRight="16dp"
+                />
+        <bigappcompany.com.artist.widgets.MyCustomEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/et_about"
+            android:layout_below="@+id/lbl_abt"
+            android:background="@drawable/bt_bg"
+            android:minHeight="100dp"
+            android:inputType="text"
+            android:paddingLeft="4dp"
+            android:paddingTop="4dp"
+            android:textSize="@dimen/text_normal"
+            android:maxLines="3"
+            android:gravity="top|left"
+            android:layout_margin="16dp"/>
+    <!--</android.support.design.widget.TextInputLayout>-->
+        <bigappcompany.com.artist.widgets.MyCustomBoldButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/color1"
+            android:textColor="@color/white"
+            android:textSize="@dimen/text_large"
+            android:id="@+id/bt_sign"
+            android:text="Sign Up"
+            android:layout_below="@+id/et_about" />
+    </RelativeLayout>
+</ScrollView>

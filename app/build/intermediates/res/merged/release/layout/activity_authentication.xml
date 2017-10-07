@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="bigappcompany.com.artist.AuthenticationActivity">
+    <!--<com.digits.sdk.android.DigitsAuthButton
+        android:id="@+id/auth_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="16dp" />-->
+
+    <bigappcompany.com.artist.widgets.MyCustomBoldButton
+        android:layout_width="88dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="8dp"
+        android:text="auth"
+        android:id="@+id/bt_auth"
+        android:background="@color/color1"
+        android:textColor="@color/white"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@+id/bt_logout"
+        app:layout_constraintVertical_bias="0.095" />
+    <bigappcompany.com.artist.widgets.MyCustomBoldButton
+        android:layout_width="88dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginRight="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginLeft="8dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="8dp"
+        android:text="Logout"
+        android:id="@+id/bt_logout"
+        android:background="@color/color1"
+        android:textColor="@color/white"/>
+
+</android.support.constraint.ConstraintLayout>

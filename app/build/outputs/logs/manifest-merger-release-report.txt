@@ -1,0 +1,705 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:2:1-102:12
+	package
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:7:5-67
+MERGED from [com.razorpay:checkout:1.2.0] /home/ravi/.android/build-cache/4a1b9ef01d4252b77df1323e1e22c55fe3760549/output/AndroidManifest.xml:9:5-67
+MERGED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:13:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/ravi/.android/build-cache/8e2c3a9d92b7b92ce513ccc0ba5b14039be6e6c1/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /home/ravi/.android/build-cache/26e11771e31771c2aa62bcd0dd4516feac9aff7a/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /home/ravi/.android/build-cache/d137aeff2a1982e815e9ce8a10e8de6628effb44/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /home/ravi/.android/build-cache/9197315c6c5f94065a2df812fb6b41c0c94c5512/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /home/ravi/.android/build-cache/55250c542753808551d98b2a0e47eab600d83f08/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /home/ravi/.android/build-cache/1d7895e04b01cc5b5d83d8e66870d76fc7688194/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/ravi/.android/build-cache/a0920a71b666a014a7db9a417bbbf55474ab6f0d/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/ravi/.android/build-cache/a2988b55706629e4c34ac1f09297fc533155120f/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /home/ravi/.android/build-cache/3d24540505d7f860a035d706792c2d06abd66111/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/ravi/.android/build-cache/f44274eb7e52bd9febeb278eb0b42859b0d671aa/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:9:5-70
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:9:22-67
+application
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:11:5-100:19
+MERGED from [artist-android-raja:AndroidChipLayout:unspecified] /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/AndroidChipLayout/build/intermediates/bundles/default/AndroidManifest.xml:11:5-15:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /home/ravi/.android/build-cache/3fe47d78f1da46b8a1c3ebb75da3a7aa4f0f8f88/output/AndroidManifest.xml:9:5-20
+MERGED from [com.razorpay:checkout:1.2.0] /home/ravi/.android/build-cache/4a1b9ef01d4252b77df1323e1e22c55fe3760549/output/AndroidManifest.xml:11:5-24:19
+MERGED from [com.google.firebase:firebase-core:11.0.4] /home/ravi/.android/build-cache/359e79237a227121ad45e32b78aca3c1827d156c/output/AndroidManifest.xml:5:5-20
+MERGED from [com.firebase:digitsmigrationhelpers:0.1.1] /home/ravi/.android/build-cache/e5edc6a01326fbb1a486b1fd9f6f5121f4a50d3c/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:15:5-77:19
+MERGED from [com.android.support:design:25.3.1] /home/ravi/.android/build-cache/b72d56201c0e96355b0b85266fbb5d40245ba83c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/ravi/.android/build-cache/176fa350d50fde53484c378f66b78de41325f1fa/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] /home/ravi/.android/build-cache/3599dacbae8cb1d47ca068a1bd9b8ee748032706/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/ravi/.android/build-cache/467b5ff7e14ed057a6803f488b427f9578b86a83/output/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services:11.0.4] /home/ravi/.android/build-cache/4da14259c3f89788f29e7761bc6a73e70f6fd26f/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/ravi/.android/build-cache/8e2c3a9d92b7b92ce513ccc0ba5b14039be6e6c1/output/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /home/ravi/.android/build-cache/26e11771e31771c2aa62bcd0dd4516feac9aff7a/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /home/ravi/.android/build-cache/d137aeff2a1982e815e9ce8a10e8de6628effb44/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /home/ravi/.android/build-cache/61a497e90189c2ab3b71580c498d36b36cb0b4c9/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /home/ravi/.android/build-cache/0459c38e2314d02f0773b9e59d29439d17dfe6a1/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /home/ravi/.android/build-cache/56831f1323366e7fb3050e0b6bede4cfa6b5f41c/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/ravi/.android/build-cache/6d2563dac5ad2ee173169b68deffbdfc3ee12901/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/ravi/.android/build-cache/18724bfa403aa0a77587fe419099c22dadb9bad3/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] /home/ravi/.android/build-cache/3010fc15a23948a69440d89272b544bf42a50f65/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /home/ravi/.android/build-cache/f0ef06421a36d6c7576ec320bcd884c309fdcb62/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.4] /home/ravi/.android/build-cache/cac853f7330c86ce0edab1607a02044336288cd8/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /home/ravi/.android/build-cache/107296d826d118d735b7589e0d5ae6f6fba2484d/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /home/ravi/.android/build-cache/9197315c6c5f94065a2df812fb6b41c0c94c5512/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /home/ravi/.android/build-cache/a5ac16b11b2fbfcd2aee89d2902ae85fd6dcc307/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /home/ravi/.android/build-cache/370b880f94f5e367d46cd9b857159001cf7eeaa8/output/AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /home/ravi/.android/build-cache/10a9ad4cff66d6393c6e75992ded3a2108355a38/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /home/ravi/.android/build-cache/b3c7122dfeab973b8c209a149055d067056913ed/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /home/ravi/.android/build-cache/cda76305d9ea123613c289f1e93274b6f1f93682/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /home/ravi/.android/build-cache/b32bc095b5a38ef7718246cf082e097a388647a5/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /home/ravi/.android/build-cache/d98b17c6cd1b52ccd433e56b6a820aaa5b3bce4a/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /home/ravi/.android/build-cache/55250c542753808551d98b2a0e47eab600d83f08/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /home/ravi/.android/build-cache/bee7c434560be7a4f938e4c586f2f3ac8d415349/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /home/ravi/.android/build-cache/1d7895e04b01cc5b5d83d8e66870d76fc7688194/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /home/ravi/.android/build-cache/222f14d8003748cb95329549815465779badeed6/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /home/ravi/.android/build-cache/0761521719ae7d417142cfa7e4a0ae01a9bbaf65/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /home/ravi/.android/build-cache/b5c9e77ec12732d171a312d15d02e025fc1348a0/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /home/ravi/.android/build-cache/f27c4b56103b3683f0703b9eb8b813f318cc7ffa/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /home/ravi/.android/build-cache/4b33a6847ebe827cfd31935641abce7ba1457693/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /home/ravi/.android/build-cache/b3270299b18e4952cbf890b1066168d8b093bf27/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/ravi/.android/build-cache/a0920a71b666a014a7db9a417bbbf55474ab6f0d/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/ravi/.android/build-cache/a2988b55706629e4c34ac1f09297fc533155120f/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/ravi/.android/build-cache/45e3d89d8da376db0320d245c07999c04e4c995c/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /home/ravi/.android/build-cache/33fb85d8f558950fad552affa7d40a6637f04aab/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /home/ravi/.android/build-cache/3d24540505d7f860a035d706792c2d06abd66111/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /home/ravi/.android/build-cache/04b14bc782db7bfad9291474a4c06cc81dd199ea/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /home/ravi/.android/build-cache/4384027cfd85c0157bd75c3ff1ec17945ea5dc0b/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /home/ravi/.android/build-cache/fc338b74cc3f4078b7d2dec6e0029702d317848c/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/ravi/.android/build-cache/f44274eb7e52bd9febeb278eb0b42859b0d671aa/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /home/ravi/.android/build-cache/72cb1cb3266bc8113509c320898fa45744d08a9b/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/ravi/.android/build-cache/41fbfadde9491c86e1b8236224c2cc2b477431d7/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/ravi/.android/build-cache/33e06e5847bb5223544ae1300fdbf1305a5fae99/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/ravi/.android/build-cache/752e733cbac222d2c3546e1ae62b421e39091a77/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /home/ravi/.android/build-cache/28be42134af997345b989d6dcf295d6b087c317f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/ravi/.android/build-cache/f7efe3152201b9a185f4ee79c2c0760f9e154403/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/ravi/.android/build-cache/bb73d047b1f778caad844514f43bdd5ba36ce59f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/ravi/.android/build-cache/3632dd854fb8e43856076b700a727facb6e30f6f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/ravi/.android/build-cache/ddc27201f15eca3222e5071c709ef3546cb3f309/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/ravi/.android/build-cache/9277a925d48d1d89396e22227b8827dd3728b36e/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:15:9-35
+	android:allowBackup
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:16:9-40
+activity#bigappcompany.com.artist.HomeActivity
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:screenOrientation
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:20:13-49
+	android:label
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:19:13-45
+	android:theme
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:21:13-56
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:18:13-41
+activity#bigappcompany.com.artist.RequestsActivity
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:24:9-28:47
+	android:screenOrientation
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:27:13-49
+	android:label
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:26:13-45
+	android:theme
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:28:13-44
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:25:13-45
+activity#bigappcompany.com.artist.EventsActivity
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:29:9-33:47
+	android:screenOrientation
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:32:13-49
+	android:label
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:31:13-43
+	android:theme
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:33:13-44
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:30:13-43
+activity#bigappcompany.com.artist.MyProfile
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:34:9-47
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:34:19-44
+activity#bigappcompany.com.artist.CustomActivity
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:35:9-37:52
+	android:screenOrientation
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:36:13-43
+activity#bigappcompany.com.artist.ResultActivity
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:38:9-40:52
+	android:screenOrientation
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:40:13-49
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:39:13-43
+activity#com.yalantis.ucrop.UCropActivity
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:41:9-44:72
+	android:screenOrientation
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:43:13-49
+	android:theme
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:42:13-60
+activity#bigappcompany.com.artist.AboutUsActivity
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:45:9-53
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:45:19-50
+activity#bigappcompany.com.artist.EditProfileActivity
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:46:9-57
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:46:19-54
+activity#bigappcompany.com.artist.RegisterActivity
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:47:9-51:20
+	android:screenOrientation
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:49:13-49
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:48:13-45
+activity#bigappcompany.com.artist.SplashActivity
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:52:9-62:24
+	android:screenOrientation
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:56:13-49
+	android:label
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:53:13-45
+	android:theme
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:55:13-56
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:54:13-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:57:13-61:29
+action#android.intent.action.MAIN
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:58:17-69
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:58:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:60:17-77
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:60:27-74
+meta-data#io.fabric.ApiKey
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:67:9-71:44
+MERGED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:19:9-21:63
+	xmlns:tools
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:68:13-59
+	android:value
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:70:13-69
+		REJECTED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:21:13-60
+	tools:replace
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:71:13-42
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:69:13-44
+activity#bigappcompany.com.artist.AuthenticationActivity
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:73:9-75:52
+	android:screenOrientation
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:75:13-49
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:74:13-51
+service#bigappcompany.com.artist.MyFirebaseInstanceIDService
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:77:9-81:19
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:77:18-61
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:78:13-80:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:79:17-80
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:79:25-77
+service#bigappcompany.com.artist.MyFirebaseMessagingService
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:82:9-86:19
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:82:18-60
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:83:13-85:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:84:17-78
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:84:25-75
+activity#bigappcompany.com.artist.PotosVideosActivity
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:88:9-90:61
+	android:screenOrientation
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:90:13-49
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:89:13-48
+activity#bigappcompany.com.artist.PaymentActivity
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:91:9-94:20
+	android:screenOrientation
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:92:13-49
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:91:19-50
+meta-data#com.razorpay.ApiKey
+ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:96:9-99:15
+	android:value
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:98:13-52
+	android:name
+		ADDED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml:97:13-47
+uses-sdk
+INJECTED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [artist-android-raja:ucrop:unspecified] /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/ucrop/build/intermediates/bundles/default/AndroidManifest.xml:8:5-10:41
+MERGED from [artist-android-raja:AndroidChipLayout:unspecified] /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/AndroidChipLayout/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.1] /home/ravi/.android/build-cache/3fe47d78f1da46b8a1c3ebb75da3a7aa4f0f8f88/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.razorpay:checkout:1.2.0] /home/ravi/.android/build-cache/4a1b9ef01d4252b77df1323e1e22c55fe3760549/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:11.0.4] /home/ravi/.android/build-cache/359e79237a227121ad45e32b78aca3c1827d156c/output/AndroidManifest.xml:4:5-43
+MERGED from [com.firebase:digitsmigrationhelpers:0.1.1] /home/ravi/.android/build-cache/e5edc6a01326fbb1a486b1fd9f6f5121f4a50d3c/output/AndroidManifest.xml:21:5-23:41
+MERGED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:design:25.3.1] /home/ravi/.android/build-cache/b72d56201c0e96355b0b85266fbb5d40245ba83c/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/ravi/.android/build-cache/60599fee82e42c4e5c24f5fb1dea25441088e15c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/ravi/.android/build-cache/176fa350d50fde53484c378f66b78de41325f1fa/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:25.3.1] /home/ravi/.android/build-cache/3599dacbae8cb1d47ca068a1bd9b8ee748032706/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/ravi/.android/build-cache/467b5ff7e14ed057a6803f488b427f9578b86a83/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services:11.0.4] /home/ravi/.android/build-cache/4da14259c3f89788f29e7761bc6a73e70f6fd26f/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /home/ravi/.android/build-cache/b93b3038c6ec92a7a683e9150bafc0c222d22158/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/ravi/.android/build-cache/8e2c3a9d92b7b92ce513ccc0ba5b14039be6e6c1/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /home/ravi/.android/build-cache/26e11771e31771c2aa62bcd0dd4516feac9aff7a/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /home/ravi/.android/build-cache/d137aeff2a1982e815e9ce8a10e8de6628effb44/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] /home/ravi/.android/build-cache/56967bb25e5c4ed874c92221930a00f8b56f0914/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /home/ravi/.android/build-cache/61a497e90189c2ab3b71580c498d36b36cb0b4c9/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] /home/ravi/.android/build-cache/53b7cccce66a3f47cdd2fbbe6a0eafc0a1a2920f/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /home/ravi/.android/build-cache/0459c38e2314d02f0773b9e59d29439d17dfe6a1/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /home/ravi/.android/build-cache/56831f1323366e7fb3050e0b6bede4cfa6b5f41c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/ravi/.android/build-cache/6d2563dac5ad2ee173169b68deffbdfc3ee12901/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/ravi/.android/build-cache/18724bfa403aa0a77587fe419099c22dadb9bad3/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] /home/ravi/.android/build-cache/3010fc15a23948a69440d89272b544bf42a50f65/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /home/ravi/.android/build-cache/f0ef06421a36d6c7576ec320bcd884c309fdcb62/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.4] /home/ravi/.android/build-cache/cac853f7330c86ce0edab1607a02044336288cd8/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /home/ravi/.android/build-cache/107296d826d118d735b7589e0d5ae6f6fba2484d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /home/ravi/.android/build-cache/9197315c6c5f94065a2df812fb6b41c0c94c5512/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /home/ravi/.android/build-cache/a5ac16b11b2fbfcd2aee89d2902ae85fd6dcc307/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] /home/ravi/.android/build-cache/2401198c178dc59d60ee5cc502dd953d63476e9c/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /home/ravi/.android/build-cache/b1a25c6a400c15f4a3731630a214b66331a2d283/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /home/ravi/.android/build-cache/370b880f94f5e367d46cd9b857159001cf7eeaa8/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /home/ravi/.android/build-cache/10a9ad4cff66d6393c6e75992ded3a2108355a38/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] /home/ravi/.android/build-cache/a52aaead549e66e3290c4a657899b85a34583d4e/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] /home/ravi/.android/build-cache/06084dbc4ad8c4cccdb5c99964c349141498cc53/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /home/ravi/.android/build-cache/b3c7122dfeab973b8c209a149055d067056913ed/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /home/ravi/.android/build-cache/cda76305d9ea123613c289f1e93274b6f1f93682/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /home/ravi/.android/build-cache/b32bc095b5a38ef7718246cf082e097a388647a5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /home/ravi/.android/build-cache/d98b17c6cd1b52ccd433e56b6a820aaa5b3bce4a/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /home/ravi/.android/build-cache/55250c542753808551d98b2a0e47eab600d83f08/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /home/ravi/.android/build-cache/bee7c434560be7a4f938e4c586f2f3ac8d415349/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /home/ravi/.android/build-cache/1d7895e04b01cc5b5d83d8e66870d76fc7688194/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] /home/ravi/.android/build-cache/8f391c2faf3d18daa657a1a93acb1753597f130c/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /home/ravi/.android/build-cache/222f14d8003748cb95329549815465779badeed6/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /home/ravi/.android/build-cache/0761521719ae7d417142cfa7e4a0ae01a9bbaf65/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /home/ravi/.android/build-cache/b5c9e77ec12732d171a312d15d02e025fc1348a0/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /home/ravi/.android/build-cache/f27c4b56103b3683f0703b9eb8b813f318cc7ffa/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /home/ravi/.android/build-cache/4b33a6847ebe827cfd31935641abce7ba1457693/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /home/ravi/.android/build-cache/b3270299b18e4952cbf890b1066168d8b093bf27/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] /home/ravi/.android/build-cache/7f0da33bcea54594f163553d2961925809315e1d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/ravi/.android/build-cache/a0920a71b666a014a7db9a417bbbf55474ab6f0d/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/ravi/.android/build-cache/a2988b55706629e4c34ac1f09297fc533155120f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /home/ravi/.android/build-cache/45e3d89d8da376db0320d245c07999c04e4c995c/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /home/ravi/.android/build-cache/33fb85d8f558950fad552affa7d40a6637f04aab/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /home/ravi/.android/build-cache/3d24540505d7f860a035d706792c2d06abd66111/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /home/ravi/.android/build-cache/04b14bc782db7bfad9291474a4c06cc81dd199ea/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /home/ravi/.android/build-cache/4384027cfd85c0157bd75c3ff1ec17945ea5dc0b/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] /home/ravi/.android/build-cache/60f9d4e71598022e4bf4662304eb32ba9bc918cd/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /home/ravi/.android/build-cache/fc338b74cc3f4078b7d2dec6e0029702d317848c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/ravi/.android/build-cache/f44274eb7e52bd9febeb278eb0b42859b0d671aa/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /home/ravi/.android/build-cache/72cb1cb3266bc8113509c320898fa45744d08a9b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/ravi/.android/build-cache/41fbfadde9491c86e1b8236224c2cc2b477431d7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/ravi/.android/build-cache/33e06e5847bb5223544ae1300fdbf1305a5fae99/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/ravi/.android/build-cache/752e733cbac222d2c3546e1ae62b421e39091a77/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /home/ravi/.android/build-cache/28be42134af997345b989d6dcf295d6b087c317f/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/ravi/.android/build-cache/f7efe3152201b9a185f4ee79c2c0760f9e154403/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/ravi/.android/build-cache/bb73d047b1f778caad844514f43bdd5ba36ce59f/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/ravi/.android/build-cache/3632dd854fb8e43856076b700a727facb6e30f6f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/ravi/.android/build-cache/ddc27201f15eca3222e5071c709ef3546cb3f309/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/ravi/.android/build-cache/9277a925d48d1d89396e22227b8827dd3728b36e/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:multidex:1.0.1] /home/ravi/.android/build-cache/2c9118fa97d1878446114ca9da4b8ff9bb21187c/output/AndroidManifest.xml:18:5-42
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/ravi/.android/build-cache/b72d56201c0e96355b0b85266fbb5d40245ba83c/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/AndroidManifest.xml
+activity#com.razorpay.CheckoutActivity
+ADDED from [com.razorpay:checkout:1.2.0] /home/ravi/.android/build-cache/4a1b9ef01d4252b77df1323e1e22c55fe3760549/output/AndroidManifest.xml:12:9-23:20
+	android:configChanges
+		ADDED from [com.razorpay:checkout:1.2.0] /home/ravi/.android/build-cache/4a1b9ef01d4252b77df1323e1e22c55fe3760549/output/AndroidManifest.xml:14:13-83
+	android:theme
+		ADDED from [com.razorpay:checkout:1.2.0] /home/ravi/.android/build-cache/4a1b9ef01d4252b77df1323e1e22c55fe3760549/output/AndroidManifest.xml:15:13-49
+	android:name
+		ADDED from [com.razorpay:checkout:1.2.0] /home/ravi/.android/build-cache/4a1b9ef01d4252b77df1323e1e22c55fe3760549/output/AndroidManifest.xml:13:13-57
+intent-filter#android.intent.action.MAIN
+ADDED from [com.razorpay:checkout:1.2.0] /home/ravi/.android/build-cache/4a1b9ef01d4252b77df1323e1e22c55fe3760549/output/AndroidManifest.xml:16:13-22:29
+data
+ADDED from [com.razorpay:checkout:1.2.0] /home/ravi/.android/build-cache/4a1b9ef01d4252b77df1323e1e22c55fe3760549/output/AndroidManifest.xml:19:17-21:47
+	android:host
+		ADDED from [com.razorpay:checkout:1.2.0] /home/ravi/.android/build-cache/4a1b9ef01d4252b77df1323e1e22c55fe3760549/output/AndroidManifest.xml:20:21-42
+	android:scheme
+		ADDED from [com.razorpay:checkout:1.2.0] /home/ravi/.android/build-cache/4a1b9ef01d4252b77df1323e1e22c55fe3760549/output/AndroidManifest.xml:21:21-44
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/ravi/.android/build-cache/8e2c3a9d92b7b92ce513ccc0ba5b14039be6e6c1/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /home/ravi/.android/build-cache/26e11771e31771c2aa62bcd0dd4516feac9aff7a/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /home/ravi/.android/build-cache/0761521719ae7d417142cfa7e4a0ae01a9bbaf65/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/ravi/.android/build-cache/a0920a71b666a014a7db9a417bbbf55474ab6f0d/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/ravi/.android/build-cache/a2988b55706629e4c34ac1f09297fc533155120f/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /home/ravi/.android/build-cache/3d24540505d7f860a035d706792c2d06abd66111/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /home/ravi/.android/build-cache/f44274eb7e52bd9febeb278eb0b42859b0d671aa/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:12:22-76
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:16:9-18:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/ravi/.android/build-cache/752e733cbac222d2c3546e1ae62b421e39091a77/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:18:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:17:13-58
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:22:9-24:63
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:24:13-60
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:23:13-58
+meta-data#com.facebook.sdk.AutoLogAppEventsEnabled
+ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:25:9-27:36
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:27:13-33
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:26:13-68
+activity#com.firebase.ui.auth.KickoffActivity
+ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:29:9-33:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:32:13-29
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:31:13-37
+	android:theme
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:33:13-58
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:30:13-64
+activity#com.firebase.ui.auth.ui.email.RecoverPasswordActivity
+ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:34:9-37:71
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:37:13-68
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:35:13-81
+activity#com.firebase.ui.auth.ui.email.RegisterEmailActivity
+ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:38:9-41:55
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:41:13-52
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:40:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:39:13-79
+activity#com.firebase.ui.auth.ui.phone.PhoneVerificationActivity
+ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:42:9-46:64
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:45:13-62
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:44:13-37
+	android:windowSoftInputMode
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:46:13-61
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:43:13-83
+activity#com.firebase.ui.auth.ui.accountlink.WelcomeBackIdpPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:47:9-50:69
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:50:13-66
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:49:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:48:13-84
+activity#com.firebase.ui.auth.ui.accountlink.WelcomeBackPasswordPrompt
+ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:51:9-54:74
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:54:13-71
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:52:13-89
+activity#com.firebase.ui.auth.ui.idp.AuthMethodPickerActivity
+ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:55:9-58:61
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:58:13-58
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:57:13-37
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:56:13-80
+activity#com.facebook.FacebookActivity
+ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:59:9-63:48
+	android:label
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:62:13-45
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:63:13-45
+	android:configChanges
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:61:13-96
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:60:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:64:9-76:20
+	android:exported
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:66:13-36
+	tools:ignore
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:67:13-45
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:65:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:68:13-75:29
+action#android.intent.action.VIEW
+ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:69:17-69
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:69:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:71:17-76
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:71:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:72:17-78
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-auth:2.0.1] /home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/AndroidManifest.xml:72:27-75
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/ravi/.android/build-cache/b72d56201c0e96355b0b85266fbb5d40245ba83c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/ravi/.android/build-cache/60599fee82e42c4e5c24f5fb1dea25441088e15c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/ravi/.android/build-cache/176fa350d50fde53484c378f66b78de41325f1fa/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] /home/ravi/.android/build-cache/3599dacbae8cb1d47ca068a1bd9b8ee748032706/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/ravi/.android/build-cache/467b5ff7e14ed057a6803f488b427f9578b86a83/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/ravi/.android/build-cache/6d2563dac5ad2ee173169b68deffbdfc3ee12901/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/ravi/.android/build-cache/18724bfa403aa0a77587fe419099c22dadb9bad3/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/ravi/.android/build-cache/28be42134af997345b989d6dcf295d6b087c317f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/ravi/.android/build-cache/f7efe3152201b9a185f4ee79c2c0760f9e154403/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/ravi/.android/build-cache/bb73d047b1f778caad844514f43bdd5ba36ce59f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/ravi/.android/build-cache/3632dd854fb8e43856076b700a727facb6e30f6f/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/ravi/.android/build-cache/ddc27201f15eca3222e5071c709ef3546cb3f309/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/ravi/.android/build-cache/9277a925d48d1d89396e22227b8827dd3728b36e/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/ravi/.android/build-cache/b72d56201c0e96355b0b85266fbb5d40245ba83c/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/ravi/.android/build-cache/b72d56201c0e96355b0b85266fbb5d40245ba83c/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/ravi/.android/build-cache/8e2c3a9d92b7b92ce513ccc0ba5b14039be6e6c1/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/ravi/.android/build-cache/8e2c3a9d92b7b92ce513ccc0ba5b14039be6e6c1/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/ravi/.android/build-cache/8e2c3a9d92b7b92ce513ccc0ba5b14039be6e6c1/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/ravi/.android/build-cache/8e2c3a9d92b7b92ce513ccc0ba5b14039be6e6c1/output/AndroidManifest.xml:25:19-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:11.0.4] /home/ravi/.android/build-cache/26e11771e31771c2aa62bcd0dd4516feac9aff7a/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/ravi/.android/build-cache/a2988b55706629e4c34ac1f09297fc533155120f/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /home/ravi/.android/build-cache/3d24540505d7f860a035d706792c2d06abd66111/output/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.0.4] /home/ravi/.android/build-cache/26e11771e31771c2aa62bcd0dd4516feac9aff7a/output/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /home/ravi/.android/build-cache/d137aeff2a1982e815e9ce8a10e8de6628effb44/output/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /home/ravi/.android/build-cache/d137aeff2a1982e815e9ce8a10e8de6628effb44/output/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /home/ravi/.android/build-cache/d137aeff2a1982e815e9ce8a10e8de6628effb44/output/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /home/ravi/.android/build-cache/d137aeff2a1982e815e9ce8a10e8de6628effb44/output/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /home/ravi/.android/build-cache/d137aeff2a1982e815e9ce8a10e8de6628effb44/output/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /home/ravi/.android/build-cache/d137aeff2a1982e815e9ce8a10e8de6628effb44/output/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /home/ravi/.android/build-cache/d137aeff2a1982e815e9ce8a10e8de6628effb44/output/AndroidManifest.xml:22:25-87
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/ravi/.android/build-cache/61a497e90189c2ab3b71580c498d36b36cb0b4c9/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/ravi/.android/build-cache/61a497e90189c2ab3b71580c498d36b36cb0b4c9/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/ravi/.android/build-cache/61a497e90189c2ab3b71580c498d36b36cb0b4c9/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/ravi/.android/build-cache/61a497e90189c2ab3b71580c498d36b36cb0b4c9/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/ravi/.android/build-cache/61a497e90189c2ab3b71580c498d36b36cb0b4c9/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/ravi/.android/build-cache/61a497e90189c2ab3b71580c498d36b36cb0b4c9/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/ravi/.android/build-cache/61a497e90189c2ab3b71580c498d36b36cb0b4c9/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/ravi/.android/build-cache/61a497e90189c2ab3b71580c498d36b36cb0b4c9/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /home/ravi/.android/build-cache/61a497e90189c2ab3b71580c498d36b36cb0b4c9/output/AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/ravi/.android/build-cache/10a9ad4cff66d6393c6e75992ded3a2108355a38/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/ravi/.android/build-cache/10a9ad4cff66d6393c6e75992ded3a2108355a38/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /home/ravi/.android/build-cache/10a9ad4cff66d6393c6e75992ded3a2108355a38/output/AndroidManifest.xml:23:18-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.0.4] /home/ravi/.android/build-cache/55250c542753808551d98b2a0e47eab600d83f08/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /home/ravi/.android/build-cache/1d7895e04b01cc5b5d83d8e66870d76fc7688194/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.0.4] /home/ravi/.android/build-cache/55250c542753808551d98b2a0e47eab600d83f08/output/AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/ravi/.android/build-cache/a0920a71b666a014a7db9a417bbbf55474ab6f0d/output/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/ravi/.android/build-cache/a0920a71b666a014a7db9a417bbbf55474ab6f0d/output/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/ravi/.android/build-cache/a0920a71b666a014a7db9a417bbbf55474ab6f0d/output/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/ravi/.android/build-cache/a0920a71b666a014a7db9a417bbbf55474ab6f0d/output/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/ravi/.android/build-cache/a0920a71b666a014a7db9a417bbbf55474ab6f0d/output/AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/ravi/.android/build-cache/a0920a71b666a014a7db9a417bbbf55474ab6f0d/output/AndroidManifest.xml:25:94-117
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/ravi/.android/build-cache/a0920a71b666a014a7db9a417bbbf55474ab6f0d/output/AndroidManifest.xml:25:118-142
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /home/ravi/.android/build-cache/a0920a71b666a014a7db9a417bbbf55474ab6f0d/output/AndroidManifest.xml:25:19-93
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/ravi/.android/build-cache/a2988b55706629e4c34ac1f09297fc533155120f/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /home/ravi/.android/build-cache/a2988b55706629e4c34ac1f09297fc533155120f/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /home/ravi/.android/build-cache/e5fcae5737e2877bf2c93e732d904375b2d92640/output/AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /home/ravi/.android/build-cache/d2e2dc1703a1709a43c59169425e1e28ff0887d4/output/AndroidManifest.xml:43:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] /home/ravi/.android/build-cache/45e3d89d8da376db0320d245c07999c04e4c995c/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/ravi/.android/build-cache/45e3d89d8da376db0320d245c07999c04e4c995c/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/ravi/.android/build-cache/45e3d89d8da376db0320d245c07999c04e4c995c/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/ravi/.android/build-cache/45e3d89d8da376db0320d245c07999c04e4c995c/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /home/ravi/.android/build-cache/45e3d89d8da376db0320d245c07999c04e4c995c/output/AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/ravi/.android/build-cache/f44274eb7e52bd9febeb278eb0b42859b0d671aa/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/ravi/.android/build-cache/f44274eb7e52bd9febeb278eb0b42859b0d671aa/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /home/ravi/.android/build-cache/f44274eb7e52bd9febeb278eb0b42859b0d671aa/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/ravi/.android/build-cache/41fbfadde9491c86e1b8236224c2cc2b477431d7/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/ravi/.android/build-cache/41fbfadde9491c86e1b8236224c2cc2b477431d7/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/ravi/.android/build-cache/41fbfadde9491c86e1b8236224c2cc2b477431d7/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/ravi/.android/build-cache/41fbfadde9491c86e1b8236224c2cc2b477431d7/output/AndroidManifest.xml:19:19-85

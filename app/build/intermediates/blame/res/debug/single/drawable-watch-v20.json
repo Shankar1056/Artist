@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/ravi/.android/build-cache/61a497e90189c2ab3b71580c498d36b36cb0b4c9/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/ravi/.android/build-cache/61a497e90189c2ab3b71580c498d36b36cb0b4c9/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/ravi/.android/build-cache/61a497e90189c2ab3b71580c498d36b36cb0b4c9/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    }
+]

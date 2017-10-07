@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="1dp"
+    app:cardElevation="2dp"
+    app:cardUseCompatPadding="true"
+    app:cardBackgroundColor="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    >
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="0dp"
+        android:layout_marginTop="5dp"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:orientation="horizontal">
+        <bigappcompany.com.artist.widgets.MyCustomMedTextView
+            android:id="@+id/tvTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+
+            android:text="New year Event"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:textColor="@color/textSecondary"
+            android:paddingLeft="10dp"
+            android:textSize="@dimen/text_normal" />
+            <bigappcompany.com.artist.widgets.MyCustomMedTextView
+            android:id="@+id/tv_remain"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:text="2 days remaining"
+            android:textColor="@color/textPrimary"
+                android:paddingRight="10dp"
+            android:textSize="@dimen/text_normal" />
+        </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1sp"
+            android:layout_marginBottom="10dp"
+            android:background="#b7b7b7"
+            />
+        <LinearLayout
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:orientation="horizontal">
+            <bigappcompany.com.artist.widgets.MyCustomMedTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:gravity="center_vertical"
+
+                android:text="Booked by"
+                android:layout_weight="1"
+                android:textColor="@color/textPrimary"
+
+                android:textSize="@dimen/text_normal" />
+            <bigappcompany.com.artist.widgets.MyCustomMedTextView
+                android:id="@+id/tv_bkName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:gravity="center_vertical"
+
+                android:text="Raja"
+                android:layout_weight="1"
+                android:textColor="@color/textSecondary"
+                android:textSize="@dimen/text_normal" />
+            <bigappcompany.com.artist.widgets.MyCustomMedTextView
+                android:id="@+id/tv_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+
+                android:text="12/07/2017"
+                android:textColor="@color/textSecondary"
+                android:textSize="@dimen/text_normal" />
+
+
+        </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginBottom="5dp"
+            android:background="#b7b7b7"
+
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            />
+        <LinearLayout
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:orientation="horizontal">
+
+            <bigappcompany.com.artist.widgets.MyCustomMedTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:gravity="center_vertical"
+
+                android:text="Contact Number"
+                android:layout_weight="1"
+                android:textColor="@color/textSecondary"
+                android:textSize="@dimen/text_medium" />
+            <bigappcompany.com.artist.widgets.MyCustomMedTextView
+                android:id="@+id/tv_ph"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:text="7411157615"
+                android:autoLink="phone"
+                android:clickable="true"
+                android:textColor="@color/color1"
+                android:textSize="@dimen/text_medium" />
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:orientation="horizontal">
+
+            <bigappcompany.com.artist.widgets.MyCustomMedTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:gravity="center_vertical"
+
+                android:text="Address"
+                android:layout_marginRight="80dp"
+                android:textColor="@color/textSecondary"
+                android:textSize="@dimen/text_medium" />
+            <bigappcompany.com.artist.widgets.MyCustomMedTextView
+                android:id="@+id/tv_addr"
+
+                android:layout_weight="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+
+                android:text="2-130, Yerravaram yeleswaram mandal east Godavari Andhra pradesh"
+
+                android:textColor="@color/textSecondary"
+                android:textSize="@dimen/text_medium" />
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

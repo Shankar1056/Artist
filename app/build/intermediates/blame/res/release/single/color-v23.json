@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/ravi/.android/build-cache/b72d56201c0e96355b0b85266fbb5d40245ba83c/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/color-v23/abc_tint_btn_checkable.xml"
+    }
+]

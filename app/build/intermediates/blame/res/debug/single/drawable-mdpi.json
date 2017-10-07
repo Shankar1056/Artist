@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-mdpi/search.png",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable-mdpi/search.png"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_add_white_24dp.png",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable-mdpi/ic_add_white_24dp.png"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-mdpi/notification.png",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable-mdpi/notification.png"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-mdpi/arrow_right.png",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable-mdpi/arrow_right.png"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-mdpi/profile.png",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable-mdpi/profile.png"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-mdpi/video_48dp.png",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable-mdpi/video_48dp.png"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-mdpi/close.png",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable-mdpi/close.png"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-mdpi/done.png",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable-mdpi/done.png"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_photo_size_select_actual_black_48dp.png",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable-mdpi/ic_photo_size_select_actual_black_48dp.png"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-mdpi/add.png",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable-mdpi/add.png"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-mdpi/download.png",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable-mdpi/download.png"
+    }
+]

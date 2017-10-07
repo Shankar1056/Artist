@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/home/ravi/.android/build-cache/b72d56201c0e96355b0b85266fbb5d40245ba83c/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable-anydpi-v21/ic_twitter_bird_white_24dp.xml",
+        "source": "/home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/res/drawable-anydpi-v21/ic_twitter_bird_white_24dp.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable-anydpi-v21/ic_facebook_white_22dp.xml",
+        "source": "/home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/res/drawable-anydpi-v21/ic_facebook_white_22dp.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable-anydpi-v21/ic_settings_phone_white_24dp.xml",
+        "source": "/home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/res/drawable-anydpi-v21/ic_settings_phone_white_24dp.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable-anydpi-v21/done_check_mark.xml",
+        "source": "/home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/res/drawable-anydpi-v21/done_check_mark.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable-anydpi-v21/ic_mail_white_24dp.xml",
+        "source": "/home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/res/drawable-anydpi-v21/ic_mail_white_24dp.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/home/ravi/.android/build-cache/b72d56201c0e96355b0b85266fbb5d40245ba83c/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable-anydpi-v21/ic_googleg_color_24dp.xml",
+        "source": "/home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/res/drawable-anydpi-v21/ic_googleg_color_24dp.xml"
+    }
+]

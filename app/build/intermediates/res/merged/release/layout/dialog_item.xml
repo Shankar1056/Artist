@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bigappcompany.com.artist.widgets.MyCustomTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:minHeight="60dp"
+    android:background="@color/color1"
+    android:text="Add Video"
+    android:textColor="@color/white"
+    android:textSize="@dimen/text_Extra_large"
+    android:gravity="center"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+</bigappcompany.com.artist.widgets.MyCustomTextView>
+

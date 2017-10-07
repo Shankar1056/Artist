@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/ucrop/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/ravi/.android/build-cache/e1bf4678bd1b58b1d45dae4b6b753f720f803526/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/ucrop/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/ravi/.android/build-cache/e1bf4678bd1b58b1d45dae4b6b753f720f803526/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/ucrop/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/ravi/.android/build-cache/e1bf4678bd1b58b1d45dae4b6b753f720f803526/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/ucrop/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/ravi/.android/build-cache/e1bf4678bd1b58b1d45dae4b6b753f720f803526/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

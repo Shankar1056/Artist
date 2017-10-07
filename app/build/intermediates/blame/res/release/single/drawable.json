@@ -1,0 +1,614 @@
+[
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/rzp_border_bottom.xml",
+        "source": "/home/ravi/.android/build-cache/4a1b9ef01d4252b77df1323e1e22c55fe3760549/output/res/drawable/rzp_border_bottom.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_skip_next.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/mr_media_pause_light.xml",
+        "source": "/home/ravi/.android/build-cache/56831f1323366e7fb3050e0b6bede4cfa6b5f41c/output/res/drawable/mr_media_pause_light.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_ic_search_api_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/splash.png",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable/splash.png"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/splash_logo.png",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable/splash_logo.png"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_forward.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/home/ravi/.android/build-cache/41fbfadde9491c86e1b8236224c2cc2b477431d7/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/edittext_theme_landing_page.xml",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable/edittext_theme_landing_page.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/mr_media_play_light.xml",
+        "source": "/home/ravi/.android/build-cache/56831f1323366e7fb3050e0b6bede4cfa6b5f41c/output/res/drawable/mr_media_play_light.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/idp_button_background_facebook.xml",
+        "source": "/home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/res/drawable/idp_button_background_facebook.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/landing_page_edit_text_design_unfocused.xml",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable/landing_page_edit_text_design_unfocused.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/idp_button_background_twitter.xml",
+        "source": "/home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/res/drawable/idp_button_background_twitter.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/navigation_empty_icon.xml",
+        "source": "/home/ravi/.android/build-cache/b72d56201c0e96355b0b85266fbb5d40245ba83c/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/side_nav_bar.xml",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/rzp_green_button.xml",
+        "source": "/home/ravi/.android/build-cache/4a1b9ef01d4252b77df1323e1e22c55fe3760549/output/res/drawable/rzp_green_button.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/mr_button_light.xml",
+        "source": "/home/ravi/.android/build-cache/56831f1323366e7fb3050e0b6bede4cfa6b5f41c/output/res/drawable/mr_button_light.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_expanded_controller_closed_caption.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/design_snackbar_background.xml",
+        "source": "/home/ravi/.android/build-cache/b72d56201c0e96355b0b85266fbb5d40245ba83c/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/home/ravi/.android/build-cache/41fbfadde9491c86e1b8236224c2cc2b477431d7/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_stop.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/home/ravi/.android/build-cache/41fbfadde9491c86e1b8236224c2cc2b477431d7/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_play.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_closed_caption.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/home/ravi/.android/build-cache/41fbfadde9491c86e1b8236224c2cc2b477431d7/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/ucrop_vector_loader_animated.xml",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/ucrop/build/intermediates/bundles/default/res/drawable/ucrop_vector_loader_animated.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/home/ravi/.android/build-cache/41fbfadde9491c86e1b8236224c2cc2b477431d7/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_play.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/design_fab_background.xml",
+        "source": "/home/ravi/.android/build-cache/b72d56201c0e96355b0b85266fbb5d40245ba83c/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/idp_button_background_phone.xml",
+        "source": "/home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/res/drawable/idp_button_background_phone.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_forward30.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/ucrop_vector_loader.xml",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/ucrop/build/intermediates/bundles/default/res/drawable/ucrop_vector_loader.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/home/ravi/.android/build-cache/41fbfadde9491c86e1b8236224c2cc2b477431d7/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/home/ravi/.android/build-cache/41fbfadde9491c86e1b8236224c2cc2b477431d7/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/idp_button_background_google.xml",
+        "source": "/home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/res/drawable/idp_button_background_google.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/home/ravi/.android/build-cache/41fbfadde9491c86e1b8236224c2cc2b477431d7/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_expanded_controller_seekbar_thumb.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/mr_button_connected_dark.xml",
+        "source": "/home/ravi/.android/build-cache/56831f1323366e7fb3050e0b6bede4cfa6b5f41c/output/res/drawable/mr_button_connected_dark.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/rzp_white_border_black_bg.xml",
+        "source": "/home/ravi/.android/build-cache/4a1b9ef01d4252b77df1323e1e22c55fe3760549/output/res/drawable/rzp_white_border_black_bg.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/mr_media_play_dark.xml",
+        "source": "/home/ravi/.android/build-cache/56831f1323366e7fb3050e0b6bede4cfa6b5f41c/output/res/drawable/mr_media_play_dark.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/mr_dialog_material_background_light.xml",
+        "source": "/home/ravi/.android/build-cache/56831f1323366e7fb3050e0b6bede4cfa6b5f41c/output/res/drawable/mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/round_corner_drawable.xml",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable/round_corner_drawable.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_rewind30.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/ucrop_vector_ic_crop.xml",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/ucrop/build/intermediates/bundles/default/res/drawable/ucrop_vector_ic_crop.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/event.jpg",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable/event.jpg"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_expanded_controller_mute.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/round_rank_grey.xml",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable/round_rank_grey.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/mr_button_dark.xml",
+        "source": "/home/ravi/.android/build-cache/56831f1323366e7fb3050e0b6bede4cfa6b5f41c/output/res/drawable/mr_button_dark.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_expanded_controller_forward30.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_skip_ad_label_border.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/mr_button_connected_light.xml",
+        "source": "/home/ravi/.android/build-cache/56831f1323366e7fb3050e0b6bede4cfa6b5f41c/output/res/drawable/mr_button_connected_light.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_expanded_controller_skip_next.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_expanded_controller_skip_previous.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_ic_clear_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_stop_large.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_pause.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_pause.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/rzp_border.xml",
+        "source": "/home/ravi/.android/build-cache/4a1b9ef01d4252b77df1323e1e22c55fe3760549/output/res/drawable/rzp_border.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_forward30.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/rzp_loader_circle.xml",
+        "source": "/home/ravi/.android/build-cache/4a1b9ef01d4252b77df1323e1e22c55fe3760549/output/res/drawable/rzp_loader_circle.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_small_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/mr_button_connecting_light.xml",
+        "source": "/home/ravi/.android/build-cache/56831f1323366e7fb3050e0b6bede4cfa6b5f41c/output/res/drawable/mr_button_connecting_light.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/gradienttr.xml",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable/gradienttr.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_expanded_controller_seekbar_track.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_skip_prev.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/mr_group_expand.xml",
+        "source": "/home/ravi/.android/build-cache/56831f1323366e7fb3050e0b6bede4cfa6b5f41c/output/res/drawable/mr_group_expand.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_expanded_controller_bg_gradient_light.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_play_large.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_small_icon.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/idp_button_background_email.xml",
+        "source": "/home/ravi/.android/build-cache/8a106efd85d25a91cd943e1dfb6ffb15af836cb9/output/res/drawable/idp_button_background_email.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/mr_group_collapse.xml",
+        "source": "/home/ravi/.android/build-cache/56831f1323366e7fb3050e0b6bede4cfa6b5f41c/output/res/drawable/mr_group_collapse.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_dialog_material_background.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_disconnect.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_pause_large.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_expanded_controller_pause.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/mr_dialog_close_dark.xml",
+        "source": "/home/ravi/.android/build-cache/56831f1323366e7fb3050e0b6bede4cfa6b5f41c/output/res/drawable/mr_dialog_close_dark.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_rewind.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_stop_live_stream.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_rewind30.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_connecting.xml",
+        "source": "/home/ravi/.android/build-cache/0459c38e2314d02f0773b9e59d29439d17dfe6a1/output/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/bt_bg_tr.xml",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable/bt_bg_tr.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/bt_bg.xml",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable/bt_bg.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/splash_color.png",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable/splash_color.png"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/mr_dialog_close_light.xml",
+        "source": "/home/ravi/.android/build-cache/56831f1323366e7fb3050e0b6bede4cfa6b5f41c/output/res/drawable/mr_dialog_close_light.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_expanded_controller_stop.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_expanded_controller_play.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/nav_bg.xml",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable/nav_bg.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/rzp_poweredby.png",
+        "source": "/home/ravi/.android/build-cache/4a1b9ef01d4252b77df1323e1e22c55fe3760549/output/res/drawable/rzp_poweredby.png"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/home/ravi/.android/build-cache/41fbfadde9491c86e1b8236224c2cc2b477431d7/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_mini_controller_gradient_light.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_forward10.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/gradient.xml",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable/gradient.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_vector_test.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/landing_page_edit_text_design_focused.xml",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable/landing_page_edit_text_design_focused.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_expanded_controller_rewind30.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/home/ravi/.android/build-cache/41fbfadde9491c86e1b8236224c2cc2b477431d7/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_skip_prev.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/home/ravi/.android/build-cache/41fbfadde9491c86e1b8236224c2cc2b477431d7/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/mr_button_connecting_dark.xml",
+        "source": "/home/ravi/.android/build-cache/56831f1323366e7fb3050e0b6bede4cfa6b5f41c/output/res/drawable/mr_button_connecting_dark.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_ic_ab_back_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_skip_next.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/rzp_secured_by_bg.xml",
+        "source": "/home/ravi/.android/build-cache/4a1b9ef01d4252b77df1323e1e22c55fe3760549/output/res/drawable/rzp_secured_by_bg.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/mr_dialog_material_background_dark.xml",
+        "source": "/home/ravi/.android/build-cache/56831f1323366e7fb3050e0b6bede4cfa6b5f41c/output/res/drawable/mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/ucrop_shadow_upside.xml",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/ucrop/build/intermediates/bundles/default/res/drawable/ucrop_shadow_upside.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_mini_controller_progress_drawable.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_mini_controller_mute.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/edit_backgrounf.xml",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable/edit_backgrounf.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/home/ravi/.android/build-cache/41fbfadde9491c86e1b8236224c2cc2b477431d7/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/home/ravi/.android/build-cache/41fbfadde9491c86e1b8236224c2cc2b477431d7/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/logo.png",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/home/ravi/.android/build-cache/b72d56201c0e96355b0b85266fbb5d40245ba83c/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/round_bg.xml",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable/round_bg.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/mr_vol_type_audiotrack_dark.xml",
+        "source": "/home/ravi/.android/build-cache/56831f1323366e7fb3050e0b6bede4cfa6b5f41c/output/res/drawable/mr_vol_type_audiotrack_dark.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/mr_media_pause_dark.xml",
+        "source": "/home/ravi/.android/build-cache/56831f1323366e7fb3050e0b6bede4cfa6b5f41c/output/res/drawable/mr_media_pause_dark.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/design_password_eye.xml",
+        "source": "/home/ravi/.android/build-cache/b72d56201c0e96355b0b85266fbb5d40245ba83c/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/abc_ratingbar_material.xml",
+        "source": "/home/ravi/.android/build-cache/4f28226989d11d87d5b45b182ff7994601695b46/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/mr_vol_type_audiotrack_light.xml",
+        "source": "/home/ravi/.android/build-cache/56831f1323366e7fb3050e0b6bede4cfa6b5f41c/output/res/drawable/mr_vol_type_audiotrack_light.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/cast_ic_notification_rewind10.xml",
+        "source": "/home/ravi/.android/build-cache/aa3e8167cc6251297aca3519abfb2f6d6c510d67/output/res/drawable/cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/placeholder.png",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable/placeholder.png"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/home/ravi/.android/build-cache/41fbfadde9491c86e1b8236224c2cc2b477431d7/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/res/merged/release/drawable/round_rank_highlight.xml",
+        "source": "/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/res/drawable/round_rank_highlight.xml"
+    }
+]

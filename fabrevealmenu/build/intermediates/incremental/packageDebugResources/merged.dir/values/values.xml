@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorBlack">#000000</color>
+    <color name="colorOverlayDark">#AA000000</color>
+    <color name="colorOverlayLight">#40000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <declare-styleable name="FABRevealMenu"><attr format="color" name="menuBackgroundColor"/><attr format="reference" name="menuCustomView"/><attr format="reference" name="menuRes"/><attr format="enum" name="menuDirection">
+            <enum name="left" value="0"/>
+            <enum name="up" value="1"/>
+            <enum name="right" value="2"/>
+            <enum name="down" value="3"/>
+        </attr><attr format="boolean" name="showOverlay"/><attr format="color" name="overlayBackground"/><attr format="boolean" name="showTitle"/><attr format="color" name="menuTitleTextColor"/><attr format="boolean" name="animateItems"/></declare-styleable>
+    <dimen name="card_radius">3dp</dimen>
+    <dimen name="column_size">50dp</dimen>
+    <dimen name="extra_margin">7dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="menu_margin">16dp</dimen>
+    <dimen name="menu_min_width">200dp</dimen>
+    <dimen name="menu_padding_horizontal">14dp</dimen>
+    <dimen name="menu_padding_vertical">20dp</dimen>
+    <dimen name="menu_size_horizontal">38dp</dimen>
+    <dimen name="menu_size_vertical">30dp</dimen>
+    <dimen name="row_horizontal_size">70dp</dimen>
+    <dimen name="shape_padding">5dp</dimen>
+    <string name="app_name">FABRevealMenu</string>
+</resources>

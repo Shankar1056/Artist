@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="digitsmigrationhelpers-0.1.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/e5edc6a01326fbb1a486b1fd9f6f5121f4a50d3c/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/e5edc6a01326fbb1a486b1fd9f6f5121f4a50d3c/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebase/digitsmigrationhelpers/0.1.1/5d7de6f6507e39008e259d5e21a373cf7d599a3d/digitsmigrationhelpers-0.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
