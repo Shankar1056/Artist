@@ -1,0 +1,124 @@
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/digitsmigrationhelpers-0.1.1.aar/cd50dd47a9860c7cf731fa537a272a98/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-11.0.4.aar/97adf3b08fcdeefb408b92b87da33da6/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/37a4a090020fd75ba20f76e974d7d0cf/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-cast-11.0.4.aar/6219074d39ad89c562f5faac56ddb908/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/e0b428bf2b63e69a6c7a2d6bcedb9a88/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-2.0.1.aar/95daebb9bfdf28f0ce9ad2126d67c2a2/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/9beaf87ea46f0d11a108b3a09e0f06ae/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/86782efb036e56af3bef8062ed1f135c/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/500c0ca7faa4e4f048dfc4236914076c/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/417d1c1477d71c4b1ad793435995304c/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar(**.class)
+-injars /home/shankar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.2.0/959c454243581fdf730abfd4f4745441724bcf2c/okhttp-2.2.0.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.1.aar/13abee2b736fa8fba46fec22619d7f48/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.0.4.aar/675dde260b1c6b0c239f8e391e96852a/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/checkout-1.2.0.aar/6fdba5a6347d5708db2052f25ef977ad/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/firebase-core-11.0.4.aar/74c05e0b9a2f006fb68c723027a622bc/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.4.aar/28aef5732dff483d96335488ea66415e/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.0.4.aar/47b5f2290e1c84c68f6c1081747f2ddf/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/5452089f0b73968f976c08f2e079505f/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/8997b70d162ab0d8929f8f90629bf585/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/palette-v7-25.2.0.aar/5bdee13ed52df25e4cc591b983f425f1/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/firebase-config-11.0.4.aar/061f6f7eb8993312179fd9b411292a54/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/firebase-crash-11.0.4.aar/1cb80949a1d1dd3b48b0a55e41a16fce/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-11.0.4.aar/37307b2e4e28a10c43b19ea0ed1b45b8/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-api-11.0.4.aar/b669d2bb4c4b1d958390ebb7309cc0b2/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.0.4.aar/10889c6ba10062e5e30819bca58879b5/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.0.4.aar/6a7c8303b80aa4905641ccbb2e3ccb0c/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.0.4.aar/bb8921fed2c6280e28b641d27c610f24/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/firebase-database-11.0.4.aar/2912659f03801a8f0dd4a1b2d941ab7f/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.0.4.aar/d1ab038bb8927d915a4194f5698102fa/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-appinvite-11.0.4.aar/b31af5caf9e113052255cc2a3b8a1017/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/firebase-dynamic-links-11.0.4.aar/12c8d0ac9f3390c03fea85ae32a75afb/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/firebase-storage-11.0.4.aar/343509b6c5d5daf852adf0f509e0b09a/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/firebase-appindexing-11.0.4.aar/18e0f4d9cfeda4cd67a838416f0f880b/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/firebase-common-11.0.4.aar/331fc4d4b254fd89f9ae0934315c81fd/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.0.4.aar/d1f644d30c07f738021b4a43962ee7a6/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.0.4.aar/6358045afcc26cbf1287f7750678b0ed/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-analytics-11.0.4.aar/32789fa80c62b638328c6e490eab9ad0/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-tagmanager-v4-impl-11.0.4.aar/57711c084ec9f87f7846fb98d30c4eb8/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-analytics-impl-11.0.4.aar/3dcb2d1091d667d9399ec3611b707070/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.0.4.aar/8270090fab80d7b754156e186c57a538/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.4.aar/da5d9f3dd28b7baeadcecafc0b4480a2/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-awareness-11.0.4.aar/3d096c050c15a42a1b924acddd965ae9/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-games-11.0.4.aar/6d91adbcb2d071e7e0e2311c2f942c36/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-drive-11.0.4.aar/4ec3b00b3b8554cf4ceafbfa3fab0252/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-fitness-11.0.4.aar/0d2af8eae2a9242910997edd3b579ab7/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-gcm-11.0.4.aar/8ca4f1918ed6fee03274a52b39902a5d/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-wallet-11.0.4.aar/8054274e247476711443a48750ad0cbf/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-identity-11.0.4.aar/39597e08c30bda597cd0142f5aff0d52/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-iid-11.0.4.aar/a81b6c494dbcba90ba746f760826018f/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-instantapps-11.0.4.aar/6c0462c982d85babdb2302904205b79c/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-location-11.0.4.aar/cd82deb92aec31db03c60a368e4bee4a/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-places-11.0.4.aar/d50b6664f869a7efd849b35e5574100f/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.0.4.aar/043ce030a8fb6ed2e9806a8aad296c78/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-nearby-11.0.4.aar/ae8378434953f760fd4f0531a99a80c1/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-panorama-11.0.4.aar/73b9fc480fb267e4087fb2dac3ffdd96/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-plus-11.0.4.aar/e80dae48f801a703b7f619f0c920601b/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.4.aar/0fa6c612e2e86f4b74872332b0fb4516/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-vision-11.0.4.aar/70cf4f6b6aef46333171c20e72db373a/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-11.0.4.aar/d345ab8db04e2845d27411b37d75edca/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-wearable-11.0.4.aar/311b08170d11121f32ff572e6fa2b395/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/784334c851e0a69e2f67be3f74b1a08b/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/f7329caa3aacb35d9af48bd92e52e028/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/1f5d8d831be287c88b7e3da376df91e5/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/firebase-storage-common-11.0.4.aar/b947c1916509a4133a059ab9abd1b54b/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.4.aar/0855f4080689c7d4dbf8187646418d5d/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/e053bd0578997885475057f41224545a/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/a4cb6872c2a0bf5b8e2532b5f35eadc0/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/8eea7a41916c88ff662cd3edbbed0c1f/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/4c99681c2249efd5e9fe1f8e59054b69/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/03822fe97d4ddf88509bc273c1bacd20/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/6d50938b42849d190ab38de1452be9d1/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/fc383141ae95e316493e966b778d6239/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/eff5be13eb1114bcf55b4e73f8342ce8/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/2aa276e7ce03c1e0832a625514cf9518/jars/classes.jar(**.class)
+-injars /home/shankar/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/507bcbf5733b57f3fb8cbff9ed09a19f/jars/classes.jar(**.class)
+-injars /home/shankar/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar(**.class)
+-injars /home/shankar/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar(**.class)
+-injars /home/shankar/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.1/constraint-layout-solver-1.0.1.jar(**.class)
+-injars /home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/ucrop/build/intermediates/intermediate-jars/debug/classes.jar(**.class)
+-injars /home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/AndroidChipLayout/build/intermediates/intermediate-jars/debug/classes.jar(**.class)
+-injars /home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/classes/debug(**.class)
+-outjars /home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/multi-dex/debug/componentClasses.jar
+
+-libraryjars /home/shankar/Android/Sdk/build-tools/26.0.2/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/multi-dex/debug/components.flags
+
+
+# Referenced at /home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:35
+-keep class android.support.multidex.MultiDexApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

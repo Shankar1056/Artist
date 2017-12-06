@@ -13,7 +13,7 @@
         android:label="Tests for com.yalantis.ucrop.test"
         android:targetPackage="com.yalantis.ucrop.test" />
 
-    <application>
+    <application android:debuggable="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 

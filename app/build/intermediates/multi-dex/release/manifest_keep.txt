@@ -1,0 +1,3 @@
+# Referenced at /home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/manifests/full/release/AndroidManifest.xml:35
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }
+

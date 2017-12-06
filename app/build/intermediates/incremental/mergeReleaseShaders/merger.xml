@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/main/shaders"/></dataSet><dataSet config="release"><source path="/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/src/release/shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/src/main/shaders"/></dataSet><dataSet config="release"><source path="/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/src/release/shaders"/></dataSet></merger>

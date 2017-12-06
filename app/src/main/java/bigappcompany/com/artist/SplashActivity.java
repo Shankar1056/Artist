@@ -148,21 +148,24 @@ public class SplashActivity extends AppCompatActivity {
             // Successfully signed in
             if (resultCode == ResultCodes.OK) {
                 login(response.getPhoneNumber());
-//				return;
+				return;
             } else {
                 // Sign in failed
                 if (response == null) {
                     // User pressed back button
                     Log.e("Login", "Login canceled by User");
-//					return;
+                    finish();
+					return;
                 }
                 if (response.getErrorCode() == ErrorCodes.NO_NETWORK) {
                     Log.e("Login", "No Internet Connection");
-//					return;
+                    finish();
+					return;
                 }
                 if (response.getErrorCode() == ErrorCodes.UNKNOWN_ERROR) {
                     Log.e("Login", "Unknown Error");
-//					return;
+                    finish();
+					return;
                 }
             }
             Log.e("Login", "Unknown sign in response");

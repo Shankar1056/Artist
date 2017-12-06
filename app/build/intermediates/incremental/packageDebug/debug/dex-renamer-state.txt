@@ -1,0 +1,7 @@
+#Wed Dec 06 18:55:49 IST 2017
+base.0=/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/transforms/dexMerger/debug/0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/transforms/dexMerger/debug/0

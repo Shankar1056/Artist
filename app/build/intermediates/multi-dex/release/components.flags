@@ -1,7 +1,7 @@
--injars '/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/transforms/jarMerging/release/jars/1/1f/combined.jar'
--outjars '/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/multi-dex/release/componentClasses.jar'
+-injars /home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/transforms/jarMerging/release/0.jar
+-outjars /home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/multi-dex/release/componentClasses.jar
 
--libraryjars /home/ravi/Android/Sdk/build-tools/25.0.2/lib/shrinkedAndroid.jar
+-libraryjars /home/shankar/Android/Sdk/build-tools/26.0.2/lib/shrinkedAndroid.jar
 
 -forceprocessing
 -dontoptimize
@@ -10,8 +10,13 @@
 -dontpreverify
 -dontnote **
 -dontwarn **
--printconfiguration '/home/ravi/Desktop/Shankar/Code for test/artist-android-raja/app/build/intermediates/multi-dex/release/components.flags'
+-printconfiguration /home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/multi-dex/release/components.flags
 
+
+# Referenced at /home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/manifests/full/release/AndroidManifest.xml:35
+-keep class android.support.multidex.MultiDexApplication {
+    <init>(...);
+}
 
 -keep public class * extends android.app.Instrumentation {
     <init>();
@@ -31,7 +36,7 @@
     <methods>;
 }
 
--keep class com.android.tools.fd.** {
+-keep class com.android.tools.ir.** {
     <fields>;
     <methods>;
 }
