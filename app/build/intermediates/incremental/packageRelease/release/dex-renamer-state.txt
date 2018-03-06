@@ -1,4 +1,4 @@
-#Wed Dec 06 19:04:57 IST 2017
+#Tue Mar 06 12:37:01 IST 2018
 base.0=/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/transforms/dex/release/0
 path.1=classes2.dex
 renamed.1=classes2.dex

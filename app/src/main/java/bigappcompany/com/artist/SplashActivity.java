@@ -33,10 +33,6 @@ import bigappcompany.com.artist.network.JsonParser;
 import bigappcompany.com.artist.network.OnTaskCompleted;
 
 public class SplashActivity extends AppCompatActivity {
-    // Note: Your consumer key and secret should be obfuscated in your source code before shipping.
-    private static final String TWITTER_KEY = "QOlRzNIvZGvCPoUlTePnwumXP";
-    private static final String TWITTER_SECRET = "b26ZiCaJ1RrJrSHGUiqcRk5uqRWr26kVpjbDSsyoMLOmEIhU3t";
-
 
     private SharedPreferences sp;
     
@@ -50,30 +46,7 @@ public class SplashActivity extends AppCompatActivity {
         setContentView(R.layout.activity_splash);
 
         sp=getSharedPreferences(JsonParser.APP_NAME,MODE_PRIVATE);
-        //changing
 
-       
-
-        /*new Handler().postDelayed(new Runnable() {
-
-            @Override
-            public void run() {
-
-                if (Digits.getActiveSession()==null) {
-                    Toast.makeText(getApplicationContext(), "not initialized", Toast.LENGTH_LONG).show();
-                    Digits.authenticate(authConfigBuilder.build());
-                } else if (!getSharedPreferences(JsonParser.APP_NAME, MODE_PRIVATE).getBoolean(JsonParser.GO, false)) {
-                    login(Digits.getActiveSession().getPhoneNumber());
-                } else {
-                    Intent i = new Intent(SplashActivity.this, HomeActivity.class);
-                    startActivity(i);
-                    finish();
-                }
-            }
-
-
-        }, 1500);*/
-    
         new Handler().postDelayed(new Runnable() {
         
             @Override

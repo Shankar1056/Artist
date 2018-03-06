@@ -4,24 +4,24 @@
         "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/86782efb036e56af3bef8062ed1f135c/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
-        "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/784334c851e0a69e2f67be3f74b1a08b/res/drawable/common_google_signin_btn_icon_light.xml"
-    },
-    {
         "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/86782efb036e56af3bef8062ed1f135c/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light.xml.flat",
+        "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/784334c851e0a69e2f67be3f74b1a08b/res/drawable/common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_quantum_ic_replay_30_white_36.png.flat",
         "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/37a4a090020fd75ba20f76e974d7d0cf/res/drawable-xxhdpi-v4/quantum_ic_replay_30_white_36.png"
     },
     {
-        "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_mr_button_connecting_20_light.png.flat",
-        "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/e0b428bf2b63e69a6c7a2d6bcedb9a88/res/drawable-xhdpi-v4/ic_mr_button_connecting_20_light.png"
-    },
-    {
         "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable_round_corner_drawable.xml.flat",
         "source": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/src/main/res/drawable/round_corner_drawable.xml"
+    },
+    {
+        "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_mr_button_connecting_20_light.png.flat",
+        "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/e0b428bf2b63e69a6c7a2d6bcedb9a88/res/drawable-xhdpi-v4/ic_mr_button_connecting_20_light.png"
     },
     {
         "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -68,12 +68,12 @@
         "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/86782efb036e56af3bef8062ed1f135c/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
     },
     {
-        "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_quantum_ic_replay_white_24.png.flat",
-        "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/37a4a090020fd75ba20f76e974d7d0cf/res/drawable-xxxhdpi-v4/quantum_ic_replay_white_24.png"
-    },
-    {
         "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/menu_activity_home_drawer.xml.flat",
         "source": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/src/main/res/menu/activity_home_drawer.xml"
+    },
+    {
+        "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_quantum_ic_replay_white_24.png.flat",
+        "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/37a4a090020fd75ba20f76e974d7d0cf/res/drawable-xxxhdpi-v4/quantum_ic_replay_white_24.png"
     },
     {
         "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -128,12 +128,12 @@
         "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/86782efb036e56af3bef8062ed1f135c/res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_mr_button_connecting_10_dark.png.flat",
-        "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/e0b428bf2b63e69a6c7a2d6bcedb9a88/res/drawable-xxhdpi-v4/ic_mr_button_connecting_10_dark.png"
-    },
-    {
         "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/layout_dialog_item.xml.flat",
         "source": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/src/main/res/layout/dialog_item.xml"
+    },
+    {
+        "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_mr_button_connecting_10_dark.png.flat",
+        "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/e0b428bf2b63e69a6c7a2d6bcedb9a88/res/drawable-xxhdpi-v4/ic_mr_button_connecting_10_dark.png"
     },
     {
         "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_download.png.flat",
@@ -144,12 +144,12 @@
         "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/37a4a090020fd75ba20f76e974d7d0cf/res/drawable-mdpi-v4/cast_ic_stop_circle_filled_grey600.png"
     },
     {
-        "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_facebook_white_22dp.png.flat",
-        "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-2.0.1.aar/95daebb9bfdf28f0ce9ad2126d67c2a2/res/drawable-xhdpi-v4/ic_facebook_white_22dp.png"
-    },
-    {
         "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_quantum_ic_pause_grey600_36.png.flat",
         "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/37a4a090020fd75ba20f76e974d7d0cf/res/drawable-hdpi-v4/quantum_ic_pause_grey600_36.png"
+    },
+    {
+        "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_facebook_white_22dp.png.flat",
+        "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-2.0.1.aar/95daebb9bfdf28f0ce9ad2126d67c2a2/res/drawable-xhdpi-v4/ic_facebook_white_22dp.png"
     },
     {
         "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ucrop_ic_cross.png.flat",
@@ -192,20 +192,20 @@
         "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/86782efb036e56af3bef8062ed1f135c/res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_mr_button_connected_14_dark.png.flat",
-        "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/e0b428bf2b63e69a6c7a2d6bcedb9a88/res/drawable-xxhdpi-v4/ic_mr_button_connected_14_dark.png"
-    },
-    {
         "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_mr_button_connecting_11_light.png.flat",
         "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/e0b428bf2b63e69a6c7a2d6bcedb9a88/res/drawable-xhdpi-v4/ic_mr_button_connecting_11_light.png"
     },
     {
-        "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_done_check_mark.png.flat",
-        "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-2.0.1.aar/95daebb9bfdf28f0ce9ad2126d67c2a2/res/drawable-xhdpi-v4/done_check_mark.png"
+        "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_mr_button_connected_14_dark.png.flat",
+        "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/e0b428bf2b63e69a6c7a2d6bcedb9a88/res/drawable-xxhdpi-v4/ic_mr_button_connected_14_dark.png"
     },
     {
         "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_rzp_logo.png.flat",
         "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/checkout-1.2.0.aar/6fdba5a6347d5708db2052f25ef977ad/res/drawable-mdpi-v4/rzp_logo.png"
+    },
+    {
+        "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_done_check_mark.png.flat",
+        "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-2.0.1.aar/95daebb9bfdf28f0ce9ad2126d67c2a2/res/drawable-xhdpi-v4/done_check_mark.png"
     },
     {
         "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
@@ -284,12 +284,12 @@
         "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-2.0.1.aar/95daebb9bfdf28f0ce9ad2126d67c2a2/res/drawable-ldpi-v4/ic_settings_phone_white_24dp.png"
     },
     {
-        "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ucrop_ic_scale.png.flat",
-        "source": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/ucrop/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ucrop_ic_scale.png"
-    },
-    {
         "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/layout_register_email_layout.xml.flat",
         "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/firebase-ui-auth-2.0.1.aar/95daebb9bfdf28f0ce9ad2126d67c2a2/res/layout/register_email_layout.xml"
+    },
+    {
+        "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_ucrop_ic_scale.png.flat",
+        "source": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/ucrop/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ucrop_ic_scale.png"
     },
     {
         "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/layout_list_single_card.xml.flat",
@@ -304,12 +304,12 @@
         "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/e0b428bf2b63e69a6c7a2d6bcedb9a88/res/drawable-xhdpi-v4/ic_mr_button_connected_17_dark.png"
     },
     {
-        "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_mr_button_connected_17_light.png.flat",
-        "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/e0b428bf2b63e69a6c7a2d6bcedb9a88/res/drawable-xhdpi-v4/ic_mr_button_connected_17_light.png"
-    },
-    {
         "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_places_ic_search.png.flat",
         "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/play-services-places-11.0.4.aar/d50b6664f869a7efd849b35e5574100f/res/drawable-mdpi-v4/places_ic_search.png"
+    },
+    {
+        "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_mr_button_connected_17_light.png.flat",
+        "source": "/home/shankar/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/e0b428bf2b63e69a6c7a2d6bcedb9a88/res/drawable-xhdpi-v4/ic_mr_button_connected_17_light.png"
     },
     {
         "merged": "/home/shankar/Desktop/Shankar/Shankar_Project_Running/artist-android-raja/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_quantum_ic_closed_caption_grey600_36.png.flat",
