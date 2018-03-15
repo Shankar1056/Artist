@@ -87,7 +87,7 @@
             android:layout_below="@+id/bt_requests"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Shreya Ghoshal"
+            android:text=""
             android:layout_marginLeft="32dp"
             android:layout_marginTop="16dp"
             android:layout_marginBottom="7dp"
@@ -97,10 +97,9 @@
             <bigappcompany.com.artist.widgets.MyCustomMedTextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Singer"
-                android:layout_alignLeft="@+id/txt_name"
-                android:id="@+id/desig"
-                android:layout_below="@+id/txt_name"
+            android:layout_alignLeft="@+id/txt_name"
+            android:id="@+id/desig"
+            android:layout_below="@+id/txt_name"
             android:background="@color/color1"
             android:paddingTop="2dp"
             android:paddingBottom="5dp"
@@ -223,7 +222,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="center_vertical"
 
-                android:text="7411157615"
+                android:text=""
 
                 android:textColor="@color/color1"
                 android:textSize="@dimen/text_medium" />
@@ -266,7 +265,7 @@
                 android:layout_height="wrap_content"
                 android:gravity="right"
 
-                android:text="2-130, Yerravaram yeleswaram mandal east Godavari Andhra pradesh"
+                android:text=""
 
                 android:textColor="@color/textSecondary"
                 android:textSize="@dimen/text_medium" />

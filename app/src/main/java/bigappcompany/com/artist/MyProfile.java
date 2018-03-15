@@ -21,6 +21,7 @@ import android.widget.Toast;
 
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+import com.squareup.picasso.Picasso;
 import com.yalantis.ucrop.UCrop;
 import com.yalantis.ucrop.UCropActivity;
 
@@ -40,7 +41,7 @@ String url="http://www.hotstarz.info/wp-content/uploads/2015/10/dzxois.png";
     ImageView img;
     RippleView rp_edit;
     Button bt_photos,bt_videos;
-    private TextView tv_address,tv_contact;
+    private TextView tv_address,tv_contact,bt_name;
     private String number;
 
     @Override
@@ -87,6 +88,7 @@ String url="http://www.hotstarz.info/wp-content/uploads/2015/10/dzxois.png";
         bt_videos.setOnClickListener(this);
         tv_address=(TextView)findViewById(R.id.tv_addr);
         tv_contact=(TextView)findViewById(R.id.tv_ph);
+        bt_name=(TextView)findViewById(R.id.txt_name);
         ((TextView)findViewById(R.id.txt_name)).setText(getSharedPreferences(JsonParser.APP_NAME,MODE_PRIVATE).getString(JsonParser.AR_NAME,""));
 
         Download_web web=new Download_web(getApplicationContext(), new OnTaskCompleted() {
@@ -105,20 +107,33 @@ String url="http://www.hotstarz.info/wp-content/uploads/2015/10/dzxois.png";
         try {
             if(new JSONObject(response).getBoolean(JsonParser.RESPONSE_STATUS))
             {
-                JSONObject data=new JSONObject(response).getJSONObject(JsonParser.DATA).getJSONArray("details").getJSONObject(0);
+                JSONObject data=new JSONObject(response).getJSONObject(JsonParser.DATA);
                 tv_address.setText(data.getString(JsonParser.AR_CITY));
                 tv_contact.setText(data.getString(JsonParser.AR_MOB_NUM));
+                bt_name.setText(data.getString(JsonParser.AR_NAME));
+                try{
                 ((TextView)findViewById(R.id.bio)).setText(data.getString(JsonParser.BIO));
-                ((TextView)findViewById(R.id.desig)).setText(new JSONObject(response).getJSONObject(JsonParser.DATA).getJSONObject("0").getJSONArray(JsonParser.CATG).getJSONObject(0).getString(JsonParser.CAT_NAME));
+                }
+                catch (JSONException e){
+
+                }
+                try {
+                    ((TextView) findViewById(R.id.desig)).setText(new JSONObject(response).getJSONObject(JsonParser.DATA).getJSONObject(JsonParser.SKILLCATG).getString(JsonParser.CAT_NAME));
+                }
+                catch (JSONException e){
+
+                }
                 url=(ApiUrl.BASE_URL)+(data.getString(JsonParser.IMG_PROFILE));
-                ViewTreeObserver vto = img.getViewTreeObserver();
+                Picasso.with(MyProfile.this).load(url).into(img);
+                /*ViewTreeObserver vto = img.getViewTreeObserver();
                 vto.addOnPreDrawListener(new ViewTreeObserver.OnPreDrawListener() {
                     @Override
                     public boolean onPreDraw() {
-                        PicassoTrustAll.getInstance(getApplicationContext()).load(url).placeholder(R.drawable.profile).resize(img.getMeasuredWidth(), img.getMeasuredHeight()).centerCrop().into(img);
+                        Picasso.with(MyProfile.this).load(url).into(img);
+                       // PicassoTrustAll.getInstance(getApplicationContext()).load(url).placeholder(R.drawable.profile).resize(img.getMeasuredWidth(), img.getMeasuredHeight()).centerCrop().into(img);
                         return true;
                     }
-                });
+                });*/
             }
         }
         catch (JSONException je)
@@ -242,6 +257,7 @@ String url="http://www.hotstarz.info/wp-content/uploads/2015/10/dzxois.png";
 
     @Override
     public void onClick(View v) {
+
         startActivity(new Intent(this,PotosVideosActivity.class));
     }
 

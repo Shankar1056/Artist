@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Mar 06 12:37:01 IST 2018
+#Thu Mar 15 13:37:56 IST 2018
 4.path=fonts/myriadproregular.ttf
 8.set=DEX
 6.path=crashlytics-build.properties

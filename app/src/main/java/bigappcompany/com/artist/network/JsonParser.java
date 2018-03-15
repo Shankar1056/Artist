@@ -20,6 +20,7 @@ public final class JsonParser {
         public static final String SUBCATG = "subcategory";
         public static final String SUB_CATG = "sub_category";
         public static final String CATG = "category";
+        public static final String SKILLCATG = "artist_skill_category";
         public static final String CITY = "city_name";
         public static final String TYPE_ID = "image_type_id";
         public static final String TYPE_ID_CUR = "current_image_type";
